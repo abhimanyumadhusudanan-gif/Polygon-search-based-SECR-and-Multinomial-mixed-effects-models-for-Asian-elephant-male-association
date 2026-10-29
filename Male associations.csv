@@ -1,0 +1,220 @@
+﻿Group_type,Age,Physiological_condition,BCS,Habitat_type
+Herd,SAM,Non-musth,9,Dense forest
+Herd,Juv,Non-musth,7,Dense forest
+AMG,SAM,Non-musth,7,Scrub
+AMG,YA,Non-musth,6,Scrub
+AMG,PA,Non-musth,9,Scrub
+Herd,Juv,Non-musth,5,Non-forest
+AMG,YA,Non-musth,7,Scrub
+AMG,PA,Non-musth,9,Scrub
+Solitary,EA,Non-musth,8,Dense forest
+AMG,PA,Non-musth,9,Scrub
+AMG,PA,Non-musth,8,Scrub
+Solitary,PA,Non-musth,9,Scrub
+AMG,Juv,Non-musth,7,Grassland
+AMG,YA,Non-musth,8,Grassland
+AMG,Juv,Non-musth,6,Open
+AMG,PA,Non-musth,8,Open
+Solitary,EA,Non-musth,6,Non-forest
+Solitary,EA,Non-musth,8,Scrub
+Solitary,EA,Non-musth,7,Open
+Solitary,YA,Non-musth,7,Non-forest
+AMG,PA,Non-musth,8,Non-forest
+AMG,EA,Non-musth,8,Non-forest
+AMG,EA,Non-musth,7,Grassland
+AMG,PA,Musth,9,Grassland
+Herd,Juv,Non-musth,6,Open
+Herd,Juv,Non-musth,6,Open
+Herd,SAM,Non-musth,7,Open
+Solitary,Juv,Non-musth,6,Grassland
+Solitary,EA,Non-musth,7,Open
+Herd,SAM,Non-musth,8,Open
+Herd,Juv,Non-musth,7,Open
+Herd,Juv,Non-musth,6,Moderately dense forest
+Herd,Juv,Non-musth,7,Moderately dense forest
+Herd,Juv,Non-musth,7,Moderately dense forest
+Herd,Juv,Non-musth,8,Scrub
+Herd,Juv,Non-musth,7,Moderately dense forest
+Herd,Juv,Non-musth,7,Moderately dense forest
+Herd,SAM,Non-musth,7,Dense forest
+AMG,EA,Non-musth,6,Non-forest
+AMG,EA,Non-musth,7,Non-forest
+Solitary,PA,Non-musth,9,Non-forest
+AMG,YA,Musth,7,Non-forest
+AMG,EA,Non-musth,7,Non-forest
+Solitary,EA,Non-musth,6,Scrub
+Solitary,EA,Non-musth,7,Non-forest
+Herd,PA,Musth,8,Dense forest
+Herd,SAM,Non-musth,6,Dense forest
+Herd,Juv,Non-musth,7,Dense forest
+AMG,PA,Non-musth,8,Scrub
+AMG,PA,Non-musth,8,Scrub
+AMG,EA,Non-musth,5,Scrub
+AMG,EA,Non-musth,6,Scrub
+Herd,PA,Musth,7,Moderately dense forest
+Solitary,PA,Non-musth,8,Non-forest
+AMG,PA,Non-musth,7,Scrub
+AMG,YA,Non-musth,6,Scrub
+AMG,EA,Non-musth,6,Scrub
+AMG,EA,Non-musth,6,Scrub
+AMG,EA,Non-musth,6,Scrub
+AMG,EA,Non-musth,8,Scrub
+AMG,Juv,Non-musth,7,Scrub
+AMG,EA,Non-musth,7,Grassland
+AMG,EA,Non-musth,6,Grassland
+AMG,SAM,Non-musth,7,Grassland
+Solitary,PA,Musth,8,Open
+Solitary,SAM,Non-musth,6,Dense forest
+AMG,PA,Non-musth,10,Scrub
+AMG,EA,Non-musth,6,Scrub
+Solitary,PA,Non-musth,9,Scrub
+Solitary,PA,Non-musth,10,Non-forest
+Herd,Juv,Non-musth,6,Moderately dense forest
+Herd,Juv,Non-musth,8,Moderately dense forest
+Solitary,PA,Non-musth,9,Scrub
+Herd,Juv,Non-musth,6,Open
+AMG,PA,Musth,10,Scrub
+AMG,PA,Non-musth,9,Scrub
+AMG,EA,Non-musth,7,Scrub
+AMG,EA,Non-musth,6,Scrub
+AMG,EA,Non-musth,7,Scrub
+AMG,SAM,Non-musth,7,Scrub
+AMG,Juv,Non-musth,7,Scrub
+AMG,YA,Non-musth,7,Scrub
+Herd,PA,Musth,7,Moderately dense forest
+AMG,PA,Musth,10,Grassland
+AMG,PA,Non-musth,9,Grassland
+AMG,PA,Non-musth,9,Grassland
+AMG,EA,Non-musth,7,Grassland
+AMG,EA,Non-musth,6,Grassland
+Solitary,PA,Non-musth,7,Moderately dense forest
+AMG,Juv,Non-musth,7,Grassland
+Solitary,EA,Non-musth,6,Grassland
+Herd,EA,Non-musth,7,Dense forest
+Herd,YA,Non-musth,6,Dense forest
+Herd,Juv,Non-musth,6,Dense forest
+AMG,PA,Musth,10,Grassland
+AMG,PA,Non-musth,9,Grassland
+AMG,YA,Non-musth,7,Grassland
+AMG,EA,Non-musth,6,Grassland
+AMG,EA,Non-musth,7,Grassland
+AMG,EA,Non-musth,6,Grassland
+AMG,EA,Non-musth,7,Grassland
+AMG,Juv,Non-musth,7,Grassland
+AMG,YA,Non-musth,7,Grassland
+AMG,EA,Non-musth,8,Grassland
+AMG,SAM,Non-musth,7,Grassland
+AMG,SAM,Non-musth,7,Scrub
+AMG,EA,Non-musth,6,Scrub
+Herd,SAM,Non-musth,6,Grassland
+Solitary,PA,Musth,8,Moderately dense forest
+Solitary,PA,Musth,8,Moderately dense forest
+Herd,Juv,Non-musth,6,Grassland
+AMG,SAM,Non-musth,7,Scrub
+AMG,YA,Non-musth,6,Scrub
+AMG,EA,Non-musth,7,Scrub
+Solitary,PA,Musth,10,Dense forest
+Solitary,PA,Musth,9,Non-forest
+AMG,PA,Non-musth,8,Non-forest
+AMG,YA,Non-musth,8,Non-forest
+AMG,EA,Non-musth,7,Non-forest
+Herd,Juv,Non-musth,6,Open
+Herd,Juv,Non-musth,6,Open
+Herd,Juv,Non-musth,6,Open
+Herd,Juv,Non-musth,7,Open
+Herd,Juv,Non-musth,7,Open
+Herd,YA,Musth,6,Open
+Herd,PA,Musth,7,Dense forest
+Herd,Juv,Non-musth,7,Moderately dense forest
+Herd,Juv,Non-musth,8,Moderately dense forest
+Herd,Juv,Non-musth,8,Moderately dense forest
+Herd,Juv,Non-musth,6,Grassland
+Herd,Juv,Non-musth,7,Grassland
+Herd,EA,Musth,7,Grassland
+Solitary,SAM,Non-musth,6,Grassland
+Solitary,YA,Non-musth,8,Grassland
+Herd,PA,Musth,7,Grassland
+AMG,Juv,Non-musth,7,Open
+AMG,EA,Non-musth,7,Open
+AMG,YA,Non-musth,7,Open
+AMG,EA,Non-musth,7,Open
+AMG,EA,Non-musth,8,Open
+Solitary,PA,Musth,9,Moderately dense forest
+Solitary,YA,Non-musth,8,Open
+Herd,Juv,Non-musth,8,Open
+Herd,Juv,Non-musth,8,Open
+Herd,Juv,Non-musth,7,Open
+Herd,SAM,Non-musth,7,Open
+Solitary,EA,Musth,7,Open
+Solitary,SAM,Non-musth,6,Moderately dense forest
+AMG,PA,Non-musth,7,Scrub
+AMG,YA,Non-musth,8,Scrub
+AMG,EA,Non-musth,6,Scrub
+Solitary,YA,Non-musth,7,Grassland
+Herd,Juv,Non-musth,7,Open
+Herd,Juv,Non-musth,7,Open
+Herd,Juv,Non-musth,6,Open
+Herd,Juv,Non-musth,6,Open
+Herd,Juv,Non-musth,5,Open
+Herd,Juv,Non-musth,6,Open
+Herd,Juv,Non-musth,6,Open
+Herd,SAM,Non-musth,8,Open
+Herd,SAM,Non-musth,7,Open
+Herd,SAM,Non-musth,6,Open
+Herd,SAM,Non-musth,7,Open
+Herd,PA,Musth,9,Open
+Herd,Juv,Non-musth,8,Moderately dense forest
+Herd,SAM,Non-musth,7,Moderately dense forest
+Herd,PA,Musth,9,Moderately dense forest
+Herd,SAM,Non-musth,7,Open
+Solitary,YA,Musth,8,Moderately dense forest
+Herd,Juv,Non-musth,6,Moderately dense forest
+Solitary,EA,Non-musth,7,Open
+Herd,EA,Musth,7,Scrub
+Herd,Juv,Non-musth,8,Dense forest
+Herd,Juv,Non-musth,5,Grassland
+Herd,Juv,Non-musth,6,Grassland
+Herd,Juv,Non-musth,6,Grassland
+Herd,Juv,Non-musth,6,Grassland
+Herd,Juv,Non-musth,7,Grassland
+Herd,SAM,Non-musth,7,Grassland
+Herd,SAM,Non-musth,7,Grassland
+Herd,Juv,Non-musth,6,Grassland
+Herd,Juv,Non-musth,8,Grassland
+Herd,PA,Musth,9,Grassland
+Herd,EA,Musth,8,Grassland
+Herd,Juv,Non-musth,7,Scrub
+Herd,Juv,Non-musth,8,Scrub
+Herd,Juv,Non-musth,8,Scrub
+Herd,YA,Non-musth,8,Scrub
+Solitary,YA,Non-musth,7,Open
+AMG,YA,Non-musth,8,Open
+AMG,EA,Non-musth,7,Open
+AMG,EA,Non-musth,7,Scrub
+AMG,YA,Non-musth,7,Scrub
+AMG,YA,Non-musth,7,Scrub
+Herd,Juv,Non-musth,6,Grassland
+Herd,Juv,Non-musth,7,Grassland
+Herd,YA,Musth,8,Grassland
+Solitary,EA,Non-musth,8,Moderately dense forest
+Herd,Juv,Non-musth,8,Moderately dense forest
+Herd,Juv,Non-musth,7,Open
+Herd,Juv,Non-musth,6,Open
+Herd,Juv,Non-musth,6,Scrub
+Herd,Juv,Non-musth,7,Scrub
+Herd,EA,Non-musth,7,Scrub
+Solitary,YA,Non-musth,7,Open
+Solitary,YA,Non-musth,8,Open
+Herd,Juv,Non-musth,8,Open
+Herd,SAM,Non-musth,8,Open
+Herd,SAM,Non-musth,8,Open
+Herd,Juv,Non-musth,8,Open
+Herd,SAM,Non-musth,9,Open
+Herd,Juv,Non-musth,6,Non-forest
+Solitary,PA,Musth,9,Open
+Herd,Juv,Non-musth,7,Open
+Herd,YA,Musth,8,Grassland
+Herd,EA,Non-musth,7,Grassland
+Herd,SAM,Non-musth,7,Grassland
+Herd,Juv,Non-musth,6,Grassland
+Herd,Juv,Non-musth,6,Grassland
