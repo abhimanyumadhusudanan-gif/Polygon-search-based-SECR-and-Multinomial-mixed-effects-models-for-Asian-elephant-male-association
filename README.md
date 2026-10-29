@@ -1,0 +1,1 @@
+Codes for polygon search based spatially explicit capture recapture for male Asian elephants in Rajaji National Park, Uttarakhand, India. Also attached are codes for multinomial mixed effects model codes to understand the correlates affecting male association patterns. 
